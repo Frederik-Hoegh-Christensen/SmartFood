@@ -1,0 +1,4 @@
+development flow:
+vi bruger chat-gpt
+der er daglige SUM (stand-up-meetings) hvert tredje kvarter
+vi bruger trunk-based development for maksimal effektivtet
